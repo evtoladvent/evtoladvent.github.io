@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Benmchmark
+title: Benchmark
 permalink: /benchmark/
 order: '1'
 ---
