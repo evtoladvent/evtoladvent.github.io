@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Benchmark
-permalink: /benchmark/
+title: Benchmarks
+permalink: /benchmarks/
 order: '1'
+published: true
 ---
 
 
@@ -12,5 +13,6 @@ order: '1'
 - eHang
 - volocopter
 - Joby
+- Autoflight
 
 Maybe a table...

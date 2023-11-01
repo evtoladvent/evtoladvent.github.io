@@ -5,11 +5,13 @@ permalink: /about/
 order: last
 ---
 
-## Manifest
-
-eVTOL news roundup, curated and verified by experienced professionals. Focused on certification, operations and adoption readiness, without the hype.
+eVTOL press review, curated and verified by experienced professionals. Focused on certification, operations and adoption readiness, without the hype.
 
 ## Methodology
+
+### Project screening
+
+eVTOL projects are monitored on regular basis and ranked according to specific criteria. Only the 5 most advanced projects will be subjected to advanced monitoring and corresponding news are included in the press reviews. The list of currently tracked projects and their ranking metrics can be consulted on our [Benchmarks](/benchmarks) page.
 
 ### Airworthiness Certification Milestone
 
